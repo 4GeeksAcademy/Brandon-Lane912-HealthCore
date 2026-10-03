@@ -1,7 +1,7 @@
 I chose HealthCore.
 I chose HealthCore because my wife and her family all work in the medical field.
 I'm always hearing about how things need to be changed and how things need to be made easier.
-I would love to help make the over worked healthcare works jobs easier.
+I would love to help make the over worked healthcare workers jobs easier.
 I would also love to help make it easier for patients to get what they need or navigate their way through their medical journey.
 
 I find the Patient Experience and Access department problems interesting.
