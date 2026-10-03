@@ -6,6 +6,7 @@ I would also love to help make it easier for patients to get what they need or n
 
 I find the Patient Experience and Access department problems interesting.
 I also find the Compliance and Data Governance department problems interesting.
+
 I am looking forward to building a centralised compliance monitoring dashboard showing data access patterns across both jurisdictions, automated audit trail consolidation, a patient data request automation tool that compiles records from all systems, and a compliance risk scoring system that flags potential violations before they become breaches.
 
  
